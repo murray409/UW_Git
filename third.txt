@@ -1,9 +1,0 @@
-third file
-<<<<<<< HEAD
-mercury venus earth mars jupiter saturn uranus neptune
-<<<<<<< HEAD
-phobos demos
-=======
->>>>>>> parent of 676ce8e... added list of planets to third.txt
-=======
->>>>>>> parent of cfc4cf1... added phobos and demos to third.txt
