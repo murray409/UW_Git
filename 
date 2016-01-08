@@ -1,0 +1,93 @@
+[33mcommit d4f9f9fac12aebe31e2f817c0b43df0547648463[m
+Author: dth2 <dth2@u.washington.edu>
+Date:   Fri Jan 8 11:08:59 2016 -0800
+
+    taking over
+
+[33mcommit eb0f709eae75665e5975ebee4b6263608ce749cd[m
+Author: murray409 <murray.409@gmail.com>
+Date:   Fri Jan 8 10:49:48 2016 -0800
+
+    Revert "added line to first.txt"
+    
+    This reverts commit 8e1759b1950b7d9c7f1372553191353ad0480d7f.
+
+[33mcommit 8e1759b1950b7d9c7f1372553191353ad0480d7f[m
+Author: murray409 <murray.409@gmail.com>
+Date:   Fri Jan 8 10:48:00 2016 -0800
+
+    added line to first.txt
+
+[33mcommit 64c70b80c092a10bf689591060bbe6d8efe56d34[m
+Author: murray409 <murray.409@gmail.com>
+Date:   Fri Jan 8 10:39:08 2016 -0800
+
+    rewrote third.txt
+
+[33mcommit 4c012bc70fc89d3af68baacbfc19fae465859041[m
+Author: murray409 <murray.409@gmail.com>
+Date:   Fri Jan 8 10:37:30 2016 -0800
+
+    reverted?
+
+[33mcommit f073204504ae884718f7c94779d1089f81133b35[m
+Author: murray409 <murray.409@gmail.com>
+Date:   Fri Jan 8 10:30:20 2016 -0800
+
+    removed third.txt
+
+[33mcommit 5c4fa181136a5de8f23604802df02c56d08f634d[m
+Author: murray409 <murray.409@gmail.com>
+Date:   Fri Jan 8 10:26:42 2016 -0800
+
+    Revert "added phobos and demos to third.txt"
+    
+    This reverts commit cfc4cf1f36b9b6171081085002cd067b98079ecc.
+
+[33mcommit 1fa174db9b0351e0b45d90a983b9c09deff1c670[m
+Author: murray409 <murray.409@gmail.com>
+Date:   Fri Jan 8 10:25:39 2016 -0800
+
+    moons
+
+[33mcommit cfc4cf1f36b9b6171081085002cd067b98079ecc[m
+Author: murray409 <murray.409@gmail.com>
+Date:   Fri Jan 8 10:23:02 2016 -0800
+
+    added phobos and demos to third.txt
+
+[33mcommit 676ce8ea97787ca71bb258ba8773bb6c492da28c[m
+Author: murray409 <murray.409@gmail.com>
+Date:   Fri Jan 8 10:16:46 2016 -0800
+
+    added list of planets to third.txt
+
+[33mcommit 4e3ddbe3e39795627d93965382f0844c3509a28b[m
+Author: murray409 <murray.409@gmail.com>
+Date:   Fri Jan 8 10:14:08 2016 -0800
+
+    added some lines
+
+[33mcommit 775ab4cada88363aaaeb3fb5f4c30f947956149a[m
+Author: murray409 <murray.409@gmail.com>
+Date:   Fri Jan 8 10:04:51 2016 -0800
+
+    third file
+
+[33mcommit bebe1b01a9dc751c5ba0b87b94e6840de6a0806f[m
+Author: murray409 <murray.409@gmail.com>
+Date:   Fri Jan 8 09:59:01 2016 -0800
+
+    my second commit
+
+[33mcommit 93143745846f45edddcef5184335da9ea3db1333[m
+Author: Jason Murray <Jason Murray>
+Date:   Fri Jan 8 09:43:14 2016 -0800
+
+    my first commit
+
+[33mcommit 468df2b7f4564ab2fea44dc51ce4af9415b5bdc1[m
+Author: murray409 <murray.409@gmail.com>
+Date:   Fri Jan 8 09:21:10 2016 -0800
+
+    Initial commit
