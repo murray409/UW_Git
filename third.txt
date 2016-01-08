@@ -1,6 +1,1 @@
-third file
-<<<<<<< HEAD
 mercury venus earth mars jupiter saturn uranus neptune
-phobos demos
-=======
->>>>>>> parent of 676ce8e... added list of planets to third.txt
